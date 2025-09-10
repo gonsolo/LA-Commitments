@@ -7,8 +7,6 @@ draft: false
 
 {{< youtube WHUkMWQkxA8 >}}
 
-Konzertanfragen: andreas.wendleder@gmail.com
-
 # Konzerte
 
 ## Zukünftig
@@ -22,3 +20,48 @@ Konzertanfragen: andreas.wendleder@gmail.com
 25.06.2025 Umsonst und Draußen, Alte Kaserne, Landshut
 
 24.08.2024 Kinokonzert, Zentrale im Rieblwirt, Landshut
+
+# Besetzung
+
+## Sänger
+
+* Martin Strasser
+* Manolo Zerrath
+* Ziggy Zerrath
+* Oliver Herborn
+
+## Sängerinnen
+
+* Kerstin Leneis
+* Yasmine Gerlach
+* Sylvia Strasser
+* Birgit Schachtner
+
+## Bläser
+
+* Claudio Temporale
+* Valentin Goderbauer
+* Berni Thomas
+
+## Orgel
+
+* Michael Windl
+
+## Gitarre
+
+* Thomas Weber
+
+## Bass
+
+* Dominik Angerbauer
+* Andreas Wendleder
+
+## Schlagzeug
+
+* Jörg Kotous
+* Elias Eiglstorfer
+
+# Konzertanfragen
+
+andreas.wendleder@gmail.com
+
