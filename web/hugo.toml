@@ -1,4 +1,6 @@
-baseURL = 'https://la-commitments.site/'
+baseURL = 'https://la-commitments.de/'
 languageCode = 'de-de'
-title = 'LA-Commitments'
+title = 'LA-C'
+description = 'Die LA-Commitments'
 theme = 'ananke'
+
