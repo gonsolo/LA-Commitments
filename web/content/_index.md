@@ -1,6 +1,6 @@
 ---
 title: 'Die LA-Commitments'
-description: 'Eine Soulband aus Landshut'
+description: 'Soul aus Landshut'
 featured_image: '/Feature.png'
 draft: false
 ---
