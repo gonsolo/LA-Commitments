@@ -4,3 +4,5 @@ title = 'LA-C'
 description = 'Die LA-Commitments'
 theme = 'ananke'
 
+[params]
+  custom_css = ["css/custom.css"]
