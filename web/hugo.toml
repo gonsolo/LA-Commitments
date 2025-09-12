@@ -6,3 +6,24 @@ theme = 'ananke'
 
 [params]
   custom_css = ["css/custom.css"]
+
+[[menu.main]]
+  name = "Startseite"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Konzerte"
+  url = "/konzerte/"
+  weight = 2
+
+[[menu.main]]
+  name = "Besetzung"
+  url = "/besetzung/"
+  weight = 3
+
+[[menu.main]]
+  name = "Anfragen"
+  url = "/anfragen/"
+  weight = 4
+
