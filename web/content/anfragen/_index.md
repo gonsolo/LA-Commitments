@@ -1,5 +1,6 @@
 ---
 title: "Anfragen"
+featured_image: '/Anfragen.jpg'
 draft: false
 ---
 

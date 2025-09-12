@@ -1,6 +1,7 @@
 ---
 title: "Konzerte"
 description: "Alle vergangenen und zukünftigen Konzerte der LA-Commitments."
+featured_image: '/Konzerte.jpg'
 draft: false
 ---
 
