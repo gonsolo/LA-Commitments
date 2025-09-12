@@ -1,7 +1,7 @@
 ---
 title: 'Die LA-Commitments'
 description: 'Soul aus Landshut'
-featured_image: '/Feature.png'
+featured_image: '/Feature.jpg'
 draft: false
 ---
 
