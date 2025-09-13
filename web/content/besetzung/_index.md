@@ -26,7 +26,7 @@ draft: false
 
 ## Orgel
 
-{{< figure src="/MichaelWindl.jpg" alt="Michael Windl" caption="Michael Windl" >}}
+{{< figure src="/Gogo.jpg" alt="Gogo" caption="Gogo" >}}
 
 ## Gitarre
 
