@@ -8,7 +8,7 @@ draft: false
 
 {{< figure src="/MartinStrasser.jpg" alt="Martin Strasser" caption="Martin Strasser" >}}
 {{< figure src="/ManoloZerrath.jpg" alt="Manolo Zerrath" caption="Manolo Zerrath" >}}
-{{< figure src="/TODO.jpg" alt="Ziggy Zerrath" caption="Ziggy Zerrath" >}}
+{{< figure src="/SigiZerrath.jpg" alt="Sigi Zerrath" caption="Sigi Zerrath" >}}
 {{< figure src="/TODO.jpg" alt="Oliver Herborn" caption="Oliver Herborn" >}}
 
 ## Sängerinnen
