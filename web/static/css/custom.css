@@ -1,4 +1,15 @@
+/* Listen linksbündig */
 li {
   text-align: left;
+}
+
+/* Text breiter */
+.measure-wide {
+    max-width: 900px !important;
+}
+@media (max-width: 991px) {
+    .measure-wide {
+        max-width: 90% !important;
+    }
 }
 
