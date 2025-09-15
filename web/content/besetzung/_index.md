@@ -9,14 +9,14 @@ draft: false
 {{< figure src="/MartinStrasser.jpg" alt="Martin Strasser" caption="Martin Strasser" >}}
 {{< figure src="/ManoloZerrath.jpg" alt="Manolo Zerrath" caption="Manolo Zerrath" >}}
 {{< figure src="/SigiZerrath.jpg" alt="Sigi Zerrath" caption="Sigi Zerrath" >}}
-{{< figure src="/TODO.jpg" alt="Oliver Herborn" caption="Oliver Herborn" >}}
+{{< figure src="/OliverHerborn.jpg" alt="Oliver Herborn" caption="Oliver Herborn" >}}
 
 ## Sängerinnen
 
 {{< figure src="/KerstinLeneis.jpg" alt="Kerstin Leneis" caption="Kerstin Leneis" >}}
 {{< figure src="/YasmineGerlach.jpg" alt="Yasmine Gerlach" caption="Yasmine Gerlach" >}}
 {{< figure src="/SylviaStrasser.jpg" alt="Sylvia Strasser" caption="Sylvia Strasser" >}}
-{{< figure src="/TODO.jpg" alt="Birgit Schachtner" caption="Birgit Schachtner" >}}
+{{< figure src="/BirgitSchachtner.jpg" alt="Birgit Schachtner" caption="Birgit Schachtner" >}}
 
 ## Bläser
 
@@ -40,5 +40,5 @@ draft: false
 ## Schlagzeug
 
 {{< figure src="/JörgKotous.jpg" alt="Jörg Kotous" caption="Jörg Kotous" >}}
-{{< figure src="/TODO.jpg" alt="Elias Eiglstorfer" caption="Elias Eiglstorfer" >}}
+{{< figure src="/EliasEiglstorfer.jpg" alt="Elias Eiglstorfer" caption="Elias Eiglstorfer" >}}
 
