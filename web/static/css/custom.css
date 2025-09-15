@@ -5,7 +5,7 @@ li {
 
 /* Text breiter */
 .measure-wide {
-    max-width: 700px !important;
+    max-width: 800px !important;
 }
 @media (max-width: 991px) {
     .measure-wide {
@@ -13,3 +13,7 @@ li {
     }
 }
 
+/* Bilder */
+figure {
+    max-width: 500px !important;
+}
