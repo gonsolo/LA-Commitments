@@ -17,3 +17,52 @@ li {
 figure {
     max-width: 500px !important;
 }
+
+/* Mouse-over Bilder */
+.image-container {
+  position: relative;
+  width: 70%; /* Wichtig: Passt die Breite an das Elternelement an */
+  padding-top: 70%; /* 2:3 Seitenverhältnis (Höhe ist 66.67% der Breite) */
+  overflow: hidden; /* Optional: Verhindert, dass Bilder über den Container hinaus ragen */
+  margin: 20px;
+}
+
+.image-container .default-image,
+.image-container .hover-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.image-container .hover-image {
+  opacity: 0;
+}
+
+.image-container:hover .default-image {
+  opacity: 0;
+}
+
+.image-container:hover .hover-image {
+  opacity: 1;
+}
+
+.image-container .image-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparenter Hintergrund */
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.9rem;
+  opacity: 0; /* Standardmäßig unsichtbar */
+  transition: opacity 0.5s ease-in-out;
+}
+
+.image-container:hover .image-caption {
+  opacity: 1; /* Sichtbar beim Hover */
+}
