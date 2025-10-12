@@ -9,7 +9,6 @@ draft: false
 {{< hover-image src1="/MartinStrasserGhibli.jpg" src2="/MartinStrasser.jpg" alt="Martin Strasser" >}}
 {{< hover-image src1="/ManoloZerrathGhibli.jpg" src2="/ManoloZerrath.jpg" alt="Manolo Zerrath" >}}
 {{< hover-image src1="/SigiZerrathGhibli.jpg" src2="/SigiZerrath.jpg" alt="Sigi Zerrath" >}}
-{{< hover-image src1="/OliverHerbornGhibli.jpg" src2="/OliverHerborn.jpg" alt="Oliver Herborn" >}}
 
 ## Sängerinnen
 
