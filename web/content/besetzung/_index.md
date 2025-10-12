@@ -34,7 +34,7 @@ draft: false
 ## Bass
 
 {{< hover-image src1="/DominikAngerbauerGhibli.jpg" src2="/DominikAngerbauer.jpg" alt="Dominik Angerbauer" >}}
-{{< hover-image src1="/AndreasWendlederGhibli.jpg" src2="/AndreasWendleder.jpg" alt="Andreas Wendleder" >}}
+{{< hover-image src1="/AndreasWendlederGhibli.jpg" src2="/AndreasWendleder.jpg" alt="Bandleader Wendleder" >}}
 
 ## Schlagzeug
 
