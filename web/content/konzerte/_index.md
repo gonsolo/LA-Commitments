@@ -7,6 +7,8 @@ draft: false
 
 ## Zukünftig
 
+* 28.12.2025 Sandora Glühgarten, Landshut
+
 ## Vergangen
 
 * 03.10.2025 Firmenfeier, Innsbruck
