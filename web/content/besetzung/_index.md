@@ -7,7 +7,7 @@ draft: false
 ## Sänger
 
 {{< hover-image src1="/MartinStrasserGhibli.jpg" src2="/MartinStrasser.jpg" alt="Martin Strasser" >}}
-{{< hover-image src1="/TODO.jpg" src2="/TODO.jpg" alt="John Jones" >}}
+{{< hover-image src1="/JJJonesGhibli.jpg" src2="/JJJones.jpg" alt="JJ Jones" >}}
 
 ## Sängerinnen
 
