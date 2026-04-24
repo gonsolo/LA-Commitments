@@ -1,7 +1,7 @@
 baseURL = 'https://la-commitments.de/'
 languageCode = 'de-de'
-title = 'Gone'
-#description = 'Die LA-Commitments'
+title = 'LA-C'
+description = 'Die LA-Commitments'
 theme = 'ananke'
 sectionPagesMenu = 'main'
 

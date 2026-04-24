@@ -1,8 +1,9 @@
 ---
-title: 'Gone'
-#description: ''
-#featured_image: '/Feature.jpg'
+title: 'Die LA-Commitments'
+description: 'Soul aus Landshut'
+featured_image: '/Feature.jpg'
 draft: false
 ---
 
+{{< youtube pPzN-yHMhKY >}}
 
