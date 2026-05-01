@@ -8,7 +8,7 @@ draft: false
 ## Zukünftig
 
 * 08.08.2026 Kinokonzert, Zentrale im Rieblwirt, Landshut
-* ??.??.2027 Kinokonzert, Mood Club, Memmingen
+* 05.07.2027 Kinokonzert, Mood Club, Memmingen
 
 ## Vergangen
 
