@@ -8,7 +8,7 @@ ALL = Commitments.pdf
 
 all: view
 #all: $(ALL)
-$(ALL): $(SONGS) TheManInMe.pdf
+$(ALL): $(SONGS) TheManInMe.pdf JustDroppedIn.pdf LookinOutMyBackDoor.pdf HotelCalifornia.pdf
 	pdfunite $^ $@
 #all: $(SONGS)
 
@@ -18,6 +18,12 @@ view: $(SONG).pdf
 $(SONGS): %.pdf: %.ly
 	lilypond $<
 TheManInMe.pdf: TheManInMe.cho
+	chordpro --output $@ $<
+JustDroppedIn.pdf: JustDroppedIn.cho
+	chordpro --output $@ $<
+LookinOutMyBackDoor.pdf: LookinOutMyBackDoor.cho
+	chordpro --output $@ $<
+HotelCalifornia.pdf: HotelCalifornia.cho
 	chordpro --output $@ $<
 c: clean
 clean:
