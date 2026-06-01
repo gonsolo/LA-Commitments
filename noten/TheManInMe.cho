@@ -2,6 +2,7 @@
 {subtitle: Bob Dylan}
 {key: G}
 {tempo: 71}
+{comment: ♩ = 71}
 
 {start_of_grid: Intro}
 | [G] . . . | [C] . [Am] . | [D] . . . | [D] . [G] . |
