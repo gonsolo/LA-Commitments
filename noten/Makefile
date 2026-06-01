@@ -1,6 +1,6 @@
 MAKEFLAGS += -j8
 
-SONG = HardToHandle
+SONG = TheManInMe
 SONGS = ByeByeBaby.pdf DestinationAnywhere.pdf HardToHandle.pdf INeverLovedAMan.pdf \
 	InTheMidnightHour.pdf MustangSally.pdf ThatsTheWayLoveIs.pdf \
 	TooManyFishInTheSea.pdf TryALittleTenderness.pdf TheDarkEndOfTheStreet.pdf
@@ -8,7 +8,7 @@ ALL = Commitments.pdf
 
 all: view
 #all: $(ALL)
-$(ALL): $(SONGS)
+$(ALL): $(SONGS) TheManInMe.pdf
 	pdfunite $^ $@
 #all: $(SONGS)
 
@@ -17,6 +17,8 @@ view: $(SONG).pdf
 	evince $<
 $(SONGS): %.pdf: %.ly
 	lilypond $<
+TheManInMe.pdf: TheManInMe.cho
+	chordpro --output $@ $<
 c: clean
 clean:
 	rm -f *.pdf *.midi
