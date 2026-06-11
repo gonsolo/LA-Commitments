@@ -1,57 +1,58 @@
 {title: Lookin' Out My Back Door}
 {artist: Creedence Clearwater Revival}
-{key: G}
-{capo: 3}
+{key: Bb}
 {tempo: 106}
-{comment: ♩ = 106  —  Capo 3  —  Outro: ♩ = 82}
+{comment: ♩ = 106  —  from "Bother me tomorrow" (Verse 3): ♩ = 82  —  Outro: ♩ = 106}
 
 {start_of_grid: Intro}
-| [G] . . . | [Em] . . . | [C] . [G] . | [D] . [G] . |
+| [Bb] . . . | [Gm] . . . | [Eb] . [Bb] . | [F] . [Bb] . |
 {end_of_grid}
 
 {start_of_verse: Verse 1}
-[G]Just got home from Illinois, [Em]lock the front door, oh boy
-[C]Got to sit down, [G]take a rest on the [D]porch
-[G]Imagination sets in, [Em]pretty soon I'm singing
-[C]Doo, doo, doo, [G]lookin' out my [D]back [G]door
+[Bb]Just got home from Illinois, [Gm]lock the front door, oh boy
+[Eb]Got to sit down, [Bb]take a rest on the [F]porch
+[Bb]Imagination sets in, [Gm]pretty soon I'm singing
+[Eb]Doo, doo, doo, [Bb]lookin' out my [F]back [Bb]door
 {end_of_verse}
 
 {start_of_verse: Verse 2}
-[G]There's a giant doing cartwheels, a statue wearing [Em]high heels
-[C]Look at all the happy creatures [G]dancing on the [D]lawn
-[G]Dinosaur victrola [Em]listening to Buck Owens
-[C]Doo, doo, doo, [G]lookin' out my [D]back [G]door
+[Bb]There's a giant doing cartwheels, a statue wearing [Gm]high heels
+[Eb]Look at all the happy creatures [Bb]dancing on the [F]lawn
+[Bb]Dinosaur victrola [Gm]listening to Buck Owens
+[Eb]Doo, doo, doo, [Bb]lookin' out my [F]back [Bb]door
 {end_of_verse}
 
 {start_of_bridge: Bridge 1}
-[D]Tambourines and elephants are [C]playing in the [G]band
-Won't you take a ride on the [Em]flyin' spoon, [D]doo, doo, doo
-[G]Wondrous apparition [Em]provided by magician
-[C]Doo, doo, doo, [G]lookin' out my [D]back [G]door
+[F]Tambourines and elephants are [Eb]playing in the [Bb]band
+Won't you take a ride on the [Gm]flyin' spoon, [F]doo, doo, doo
+[Bb]Wondrous apparition [Gm]provided by magician
+[Eb]Doo, doo, doo, [Bb]lookin' out my [F]back [Bb]door
 {end_of_bridge}
 
-{comment: Solo — G  Em  C  G  D  /  G  Em  C  G  D  G}
+{comment: Solo — Bb  Gm  Eb  Bb  F  /  Bb  Gm  Eb  Bb  F  Bb}
 
 {start_of_bridge: Bridge 2}
-[D]Tambourines and elephants are [C]playing in the [G]band
-Won't you take a ride on the [Em]flyin' spoon, [D]doo, doo, doo
-[G]Bother me tomorrow, [Em]today I'll find no sorrow
-[C]Doo, doo, doo, [G]lookin' out my [D]back [G]door
+[F]Tambourines and elephants are [Eb]playing in the [Bb]band
+Won't you take a ride on the [Gm]flyin' spoon, [F]doo, doo, doo
+[Bb]Bother me tomorrow, [Gm]today I'll find no sorrow
+[Eb]Doo, doo, doo, [Bb]lookin' out my [F]back [Bb]door
 {end_of_bridge}
 
 {start_of_grid: Break}
-| [G] [F#] [F] [E] | [D] . . . | [A] . . . | [A] . [F#m] [E] |
+| [Bb] [A] [Ab] [G] | [F] . . . | [C] . . . | [C] . [Am] [G] |
 {end_of_grid}
 
-{comment: Key change: G → A}
+{comment: Key change: Bb → C}
 
 {start_of_verse: Verse 3}
-[A]Forward troubles Illinois, lock the front door, [F#m]oh boy
-[D]Look at all the happy creatures [A]dancing on the [E]lawn
-[A]Bother me tomorrow, [F#m]today I'll find no sorrow
-[D]Doo, doo, doo, [A]lookin' out my [E]back [A]door
+[C]Forward troubles Illinois, lock the front door, [Am]oh boy
+[F]Look at all the happy creatures [C]dancing on the [G]lawn
+{comment: ♩ = 82}
+[C]Bother me tomorrow, [Am]today I'll find no sorrow
+[F]Doo, doo, doo, [C]lookin' out my [G]back [C]door
 {end_of_verse}
 
+{comment: ♩ = 106}
 {start_of_grid: Outro}
-| [D] . . . | [A] . . . | [E] . . . | [A] . . . |
+| [F] . . . | [C] . . . | [G] . . . | [C] . . . |
 {end_of_grid}
