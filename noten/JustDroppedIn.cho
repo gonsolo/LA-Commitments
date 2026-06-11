@@ -20,20 +20,30 @@
 [Dm]Yeah, yeah, [G]oh-yeah, [Dm]what condition my condition was in
 {end_of_chorus}
 
-{comment: Key change: Dm → Em}
+{start_of_abc: Single notes}
+X:1
+M:4/4
+L:1/8
+K:Dm
+"Dm"z4 z3 c- | c A2 F D F2 [K:Ab] "G#"A- | A E2 C [K:A#m] "A#m"A, C2 A, | C2 A, C2 A, C =D |
+{end_of_abc}
+
+{comment: Key change: Dm → D#m}
 
 {start_of_verse: Verse 2}
-[Em]I pushed my soul in a deep dark hole and then [B7]I followed it [Em]in
-[Em]I watched myself crawlin' out as I was a-[B7]crawlin' in
-[Em]I got up so tight I couldn't unwind, I [C]saw so much I broke my [Em]mind
-[Em]I just dropped in to [B7]see what condition my condition [Em]was in
+[D#m]I pushed my soul in a deep dark hole and then [A#7]I followed it [D#m]in
+[D#m]I watched myself crawlin' out as I was a-[A#7]crawlin' in
+[D#m]I got up so tight I couldn't unwind, I [B]saw so much I broke my [D#m]mind
+[D#m]I just dropped in to [A#7]see what condition my condition [D#m]was in
 {end_of_verse}
 
 {comment: Break}
 
 {start_of_chorus: Refrain}
-[Em]Yeah, yeah, [B7]oh-yeah, [Em]what condition my condition was in
+[D#m]Yeah, yeah, [A#7]oh-yeah, [D#m]what condition my condition was in
 {end_of_chorus}
+
+{comment: Key change: D#m → Em}
 
 {start_of_verse: Verse 3}
 [Em]Someone painted "April Fool" in big black letters on a [B7]dead end [Em]sign
