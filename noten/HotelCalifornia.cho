@@ -1,67 +1,67 @@
 {title: Hotel California}
 {artist: Eagles}
-{key: Bm}
+{key: Am}
 {tempo: 102}
 {comment: Intro: ♩ = 68  —  Rest: ♩ = 102}
 
 {start_of_grid: Intro}
-| [Bm] . . . | [Bm] . . . | [Bm] . . . | [Bm] . . . |
+| [Am] . . . | [Am] . . . | [Am] . . . | [Am] . . . |
 {end_of_grid}
 
 {start_of_verse: Verse 1}
-[Bm]Por el camino del desierto, [F#]el viento me despeina
-[A]Sube el aroma de colita, [E]luna, luna de nadie
-[G]Alla a lo lejos, [D]una luz centela
-[Em]La idea de mi estar, [F#]dormir por la noche
-[Bm]Ella estaba en la entrada, [F#]y la campana habia sonao
-[A]Y me dijo ahi mismito, [E]que es puerta del cielo
-[G]Ella enciende una vela, [D]y muestra el camino
-[Em]Suenan voces en corredor, [F#]y yo entendi que dician
+[Am]Por el camino del desierto, [E]el viento me despeina
+[G]Sube el aroma de colita, [D]luna, luna de nadie
+[F]Alla a lo lejos, [C]una luz centela
+[Dm]La idea de mi estar, [E]dormir por la noche
+[Am]Ella estaba en la entrada, [E]y la campana habia sonao
+[G]Y me dijo ahi mismito, [D]que es puerta del cielo
+[F]Ella enciende una vela, [C]y muestra el camino
+[Dm]Suenan voces en corredor, [E]y yo entendi que dician
 {end_of_verse}
 
 {start_of_chorus: Chorus}
-[G]Bienvenue to the Hotel [D]California
-[F#]Such a lovely place, [Bm]such a lovely place
-[G]Bienvenue to the Hotel [D]California
-[Em]Such a lovely place, [F#]such a lovely place
+[F]Bienvenue to the Hotel [C]California
+[E]Such a lovely place, [Am]such a lovely place
+[F]Bienvenue to the Hotel [C]California
+[Dm]Such a lovely place, [E]such a lovely place
 {end_of_chorus}
 
 {start_of_verse: Verse 2}
-[Bm]Ella al lado que brillaba, [F#]tenia una Mercedes
-[A]Rodeada de chicos guapos, [E]ella llamaba amigos
-[G]Cuando viene despacio, [D]perfuma de verano
-[Em]Aquel era pa recordar, [F#]y otro para olvidar
-[Bm]Le pedi al capitan, [F#]que sirva el vino
-[A]El me dijo no hemos, [E]tenido este alcohol
-[G]De este sesenta y nueve, [D]la voz sigue llamando
-[Em]Pues me va a despertar, [F#]en la noche para decir
+[Am]Ella al lado que brillaba, [E]tenia una Mercedes
+[G]Rodeada de chicos guapos, [D]ella llamaba amigos
+[F]Cuando viene despacio, [C]perfuma de verano
+[Dm]Aquel era pa recordar, [E]y otro para olvidar
+[Am]Le pedi al capitan, [E]que sirva el vino
+[G]El me dijo no hemos, [D]tenido este alcohol
+[F]De este sesenta y nueve, [C]la voz sigue llamando
+[Dm]Pues me va a despertar, [E]en la noche para decir
 {end_of_verse}
 
 {start_of_chorus: Chorus}
-[G]Bienvenue al the Hotel [D]California
-[F#]Such a lovely place, [Bm]such a lovely place
-[G]Bienvenue to the Hotel [D]California
-[Em]Such a lovely place, [F#]such a lovely place
+[F]Bienvenue al the Hotel [C]California
+[E]Such a lovely place, [Am]such a lovely place
+[F]Bienvenue to the Hotel [C]California
+[Dm]Such a lovely place, [E]such a lovely place
 {end_of_chorus}
 
 {start_of_verse: Verse 3}
-[Bm]El espejo en el techo, [F#]champana en el hielo
-[A]Y ella dijo somos todos prisioneros, [E]por propia voluntad
-[G]Y en los cuartos principales, [D]hacen sus siestas
-[Em]Atacan a la bestia, [F#]pero no la logran matar
-[Bm]Mi ultimo recuerdo, [F#]corria hacia la puerta
-[A]Me di un golpe en el camino, [E]por donde habia llegado
-[G]Relax dijo el portero, [D]por mi es honor de recibir
-[Em]Puede salir cuando quiere, [F#]pero nunca puede partir
+[Am]El espejo en el techo, [E]champana en el hielo
+[G]Y ella dijo somos todos prisioneros, [D]por propia voluntad
+[F]Y en los cuartos principales, [C]hacen sus siestas
+[Dm]Atacan a la bestia, [E]pero no la logran matar
+[Am]Mi ultimo recuerdo, [E]corria hacia la puerta
+[G]Me di un golpe en el camino, [D]por donde habia llegado
+[F]Relax dijo el portero, [C]por mi es honor de recibir
+[Dm]Puede salir cuando quiere, [E]pero nunca puede partir
 {end_of_verse}
 
 {start_of_chorus: Chorus}
-[G]Bienvenue al the Hotel [D]California
-[F#]Such a lovely place, [Bm]such a lovely place
-[G]Bienvenue al the Hotel [D]California
-[Em]Such a lovely place, [F#]such a lovely place
+[F]Bienvenue al the Hotel [C]California
+[E]Such a lovely place, [Am]such a lovely place
+[F]Bienvenue al the Hotel [C]California
+[Dm]Such a lovely place, [E]such a lovely place
 {end_of_chorus}
 
 {start_of_grid: Outro}
-| [Bm] . . . | [Bm] . . . | [Bm] . . . | [Bm] . . . |
+| [Am] . . . | [Am] . . . | [Am] . . . | [Am] . . . |
 {end_of_grid}
