@@ -11,7 +11,9 @@ all: view
 #all: $(ALL)
 $(ALL): $(SONGS) TheManInMe.pdf JustDroppedIn.pdf LookinOutMyBackDoor.pdf HotelCalifornia.pdf
 	pdfunite $^ $@
-$(LEBOWSKI): HotelCalifornia.pdf JustDroppedIn.pdf LookinOutMyBackDoor.pdf TheManInMe.pdf
+LebowskiCover.pdf: LebowskiCover.tex
+	pdflatex $<
+$(LEBOWSKI): LebowskiCover.pdf HotelCalifornia.pdf JustDroppedIn.pdf LookinOutMyBackDoor.pdf TheManInMe.pdf
 	pdfunite $^ $@
 #all: $(SONGS)
 
@@ -31,7 +33,7 @@ HotelCalifornia.pdf: HotelCalifornia.cho
 	chordpro --output $@ $<
 c: clean
 clean:
-	rm -f *.pdf *.midi
+	rm -f *.pdf *.midi *.aux *.log
 e: edit
 edit:
 	vi $(SONG).ly
