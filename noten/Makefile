@@ -5,13 +5,17 @@ SONGS = ByeByeBaby.pdf DestinationAnywhere.pdf HardToHandle.pdf INeverLovedAMan.
 	InTheMidnightHour.pdf MustangSally.pdf ThatsTheWayLoveIs.pdf \
 	TooManyFishInTheSea.pdf TryALittleTenderness.pdf TheDarkEndOfTheStreet.pdf
 ALL = Commitments.pdf
+LEBOWSKI = Lebowski.pdf
 
 all: view
 #all: $(ALL)
 $(ALL): $(SONGS) TheManInMe.pdf JustDroppedIn.pdf LookinOutMyBackDoor.pdf HotelCalifornia.pdf
 	pdfunite $^ $@
+$(LEBOWSKI): HotelCalifornia.pdf JustDroppedIn.pdf LookinOutMyBackDoor.pdf TheManInMe.pdf
+	pdfunite $^ $@
 #all: $(SONGS)
 
+lebowski: $(LEBOWSKI)
 v: view
 view: $(SONG).pdf
 	evince $<
@@ -36,4 +40,4 @@ listen: $(SONG).midi
 	timidity -in $<
 %.midi: %.ly
 
-.PHONY: all c clean e edit view l listen v view
+.PHONY: all c clean e edit view l listen v view lebowski
