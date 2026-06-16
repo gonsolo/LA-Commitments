@@ -62,3 +62,19 @@ DDDDDDDD | DDDDDDDD | CCCCCCCC | CCCCCCCC | [M:6/4] F2CF2CF2FFGD | [M:7/4] DDDDD
 {start_of_chorus: Refrain}
 [Em]Yeah, yeah, [B7]oh-yeah
 {end_of_chorus}
+
+{start_of_grid: Outro}
+| [E] . . . |
+{end_of_grid}
+
+{start_of_abc: Outro}
+X:3
+M:none
+L:1/8
+K:C
+G2^cc^G2B2^A2^F^DE2^AD2
+{end_of_abc}
+
+{start_of_grid: Outro}
+| [E] . . . |
+{end_of_grid}
