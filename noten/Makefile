@@ -1,6 +1,6 @@
 MAKEFLAGS += -j8
 
-SONG = HotelCalifornia
+SONG = JustDroppedIn
 SONGS = ByeByeBaby.pdf DestinationAnywhere.pdf HardToHandle.pdf INeverLovedAMan.pdf \
 	InTheMidnightHour.pdf MustangSally.pdf ThatsTheWayLoveIs.pdf \
 	TooManyFishInTheSea.pdf TryALittleTenderness.pdf TheDarkEndOfTheStreet.pdf
